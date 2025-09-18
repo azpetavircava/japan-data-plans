@@ -68,3 +68,10 @@ layout: default
 
 　　希望这份指南能帮你扫清迷雾，在日本玩得尽兴，分享得畅快！
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Japan SIM 卡购买与激活指南](https://faciylike.github.io/japan-sim-guides)
